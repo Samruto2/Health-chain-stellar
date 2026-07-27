@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/1109-inventory-auth",
+    "main",
+    "origin",
+    "refactor",
+    "revert-115-devs"
+  ],
+  "parent": {
+    "fix/1109-inventory-auth": "main",
+    "main": null,
+    "origin": "main",
+    "refactor": "main",
+    "revert-115-devs": "main"
+  },
+  "order": [
+    "main",
+    "fix/1109-inventory-auth",
+    "origin",
+    "refactor",
+    "revert-115-devs"
+  ]
+}
